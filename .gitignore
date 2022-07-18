@@ -10,3 +10,5 @@
 *.iml
 HELP.md
 /target/
+/sfg-spring-pet-clinic-data/target/
+/sfg-spring-pet-clinic-web/target/
